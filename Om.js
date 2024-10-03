@@ -1,6 +1,6 @@
-pkg install nodejs
+pip install nodejs
 npm i
-pkg install nodejs-lts
+pip install nodejs-lts
 (async () => {
   try {
     
