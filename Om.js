@@ -1,3 +1,6 @@
+pkg install nodejs
+npm i
+pkg install nodejs-lts
 (async () => {
   try {
     
